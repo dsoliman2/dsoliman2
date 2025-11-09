@@ -28,27 +28,14 @@ I’m interested in improving **radiology workflow efficiency, triage, and decis
 
 ---
 
-### 🔬 How I Think About Models
 
-I value models that:
-
-- Reflect **known anatomy + pathology patterns**
-- Are **transparent** about *why* they made a call
-- Are evaluated in the **context of real clinical workflow**
-- Are **robust**, not just optimized for leaderboard accuracy
-
-If a model can’t explain itself, I don’t trust it.  
-If a model works but doesn’t integrate into workflow, it’s not useful.  
-Clinical AI needs to meet clinicians where they are.
-
----
 
 ### 🧰 Tools & Skills
 
-**Languages:** Python (core), SQL, MATLAB  
+**Languages:** Python (core), SQL, R, MATLAB  
 **Modeling:** PyTorch, sklearn, transfer learning, Grad-CAM  
 **Imaging:** MRI/CT physics, DICOM workflows, reconstruction artifacts, QC  
-**Workflows:** PyCharm, Jupyter, Git, Kaggle, Linux environments
+**Workflows:** PyCharm, Jupyter, Git, Kaggle
 
 ---
 
