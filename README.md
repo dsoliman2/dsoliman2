@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hey, I'm Dan 👋
 
-<!--
-**dsoliman2/dsoliman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Imaging Physicist and Data Scientist** working where **medical imaging and machine learning** meet.
 
-Here are some ideas to get you started:
+My background in MRI/CT physics gives me a strong understanding of how images are formed, what can distort them, and how radiologists interpret subtle patterns. I use that foundation to build **models that are interpretable, stable, and clinically meaningful** — not just accurate on paper.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in improving **radiology workflow efficiency, triage, and decision support**, especially in settings where time and clarity matter.
+
+---
+
+### 🧠 What I Work On
+
+- Medical image modeling (MRI, CT, X-ray)
+- Deep learning workflows and transfer learning (PyTorch)
+- Model interpretability (Grad-CAM, feature importance)
+- Quality control and dataset preparation for imaging pipelines
+- Bridging **clinical image reasoning** with **data-driven inference**
+
+---
+
+### 🏗️ Highlighted Project
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Brain MRI Tumor Classifier** | ResNet18 classifier for T1 post-contrast MRI slices with **Grad-CAM heatmaps** to show what regions influence decisions. Designed as a workflow triage concept, not diagnostic automation. | PyTorch, Torchvision, Matplotlib, OpenCV |
+
+**Repo:** https://github.com/dsoliman2/brain-mri-tumor-classifier
+
+---
+
+### 🔬 How I Think About Models
+
+I value models that:
+
+- Reflect **known anatomy + pathology patterns**
+- Are **transparent** about *why* they made a call
+- Are evaluated in the **context of real clinical workflow**
+- Are **robust**, not just optimized for leaderboard accuracy
+
+If a model can’t explain itself, I don’t trust it.  
+If a model works but doesn’t integrate into workflow, it’s not useful.  
+Clinical AI needs to meet clinicians where they are.
+
+---
+
+### 🧰 Tools & Skills
+
+**Languages:** Python (core), SQL, MATLAB  
+**Modeling:** PyTorch, sklearn, transfer learning, Grad-CAM  
+**Imaging:** MRI/CT physics, DICOM workflows, reconstruction artifacts, QC  
+**Workflows:** PyCharm, Jupyter, Git, Kaggle, Linux environments
+
+---
+
+### 📈 Currently Exploring
+
+- Data augmentation strategies for MRI generalization  
+- Streamlit UI for interactive model evaluation  
+- Tabular modeling + feature engineering for credit risk datasets  
+- How interpretability can improve trust and adoption in clinical AI
+
+---
+
+### 📫 Let’s Connect
+
+Always open to conversations about imaging, data science, clinical AI research, or interesting side ideas.
+
+
+
